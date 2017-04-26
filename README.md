@@ -14,6 +14,7 @@ mobileModal.alert(
 );
 ```
 
+
 ```javascript
 //confirm
 mobileModal.confirm(
@@ -32,6 +33,38 @@ mobileModal.confirm(
     }
 );
 ```
+
+
+```javascript
+//toast
+var content = '提示内容';//可选
+mobileModal.toast(content);
+```
+
+
+```javascript
+//页面加载pageLoader
+
+// 显示动画
+var content = '提示内容';//可选
+mobileModal.showPageLoader(content);
+
+// 关闭动画
+mobileModal.hidePageLoader();
+```
+
+
+```javascript
+//预加载preLoader
+
+// 显示动画
+var content = '提示内容';//可选
+mobileModal.showPreLoader(content);
+
+// 关闭动画
+mobileModal.hidePreLoader();
+```
+
 
 等等...
 
