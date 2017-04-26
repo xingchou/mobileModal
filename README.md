@@ -36,7 +36,9 @@ mobileModal.confirm(
     
 );
 
-等等
+其它请查看地址：
+
+https://xingchou.github.io/pluginApp/dist/index.html#/index
 
 
 
