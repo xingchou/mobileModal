@@ -1,8 +1,9 @@
 # mobileModal
 移动端基础组件
 
-//alert
+
 ```javascript
+//alert
 mobileModal.alert(
     '提示内容',//必填
 
@@ -13,10 +14,8 @@ mobileModal.alert(
 );
 ```
 
-
-
-//confirm
 ```javascript
+//confirm
 mobileModal.confirm(
     '标题',//必填
 
