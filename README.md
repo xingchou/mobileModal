@@ -36,9 +36,18 @@ mobileModal.confirm(
     
 );
 
-其它请查看地址：
+等等...
 
-https://xingchou.github.io/pluginApp/dist/index.html
+demo：
 
+https://xingchou.github.io/pluginApp/dist/index.html#/list/alert
+
+https://xingchou.github.io/pluginApp/dist/index.html#/list/confirm
+
+https://xingchou.github.io/pluginApp/dist/index.html#/list/toast
+
+https://xingchou.github.io/pluginApp/dist/index.html#/list/preLoader
+
+https://xingchou.github.io/pluginApp/dist/index.html#/list/viewImage
 
 
