@@ -40,7 +40,7 @@ mobileModal.confirm(
 
 demo：
 
-https://xingchou.github.io/pluginApp/dist/index.html#/list/alert
+https://xingchou.github.io/pluginApp/dist/index.html
 
 
 
