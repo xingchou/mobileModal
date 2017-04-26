@@ -2,6 +2,7 @@
 移动端基础组件
 
 //alert
+
 mobileModal.alert(
 
     '提示内容',//必填
@@ -14,7 +15,9 @@ mobileModal.alert(
 );
 
 
+
 //confirm
+
 mobileModal.confirm(
 
     '标题',//必填
@@ -32,3 +35,28 @@ mobileModal.confirm(
     }
     
 );
+
+
+
+//toast
+var content = '提示内容';//可选
+
+mobileModal.toast(content);
+
+
+
+//pageLoad
+
+// 显示动画
+var content = '提示内容';//可选
+
+mobileModal.showPageLoader(content);
+
+// 关闭动画
+mobileModal.hidePageLoader();
+
+
+等等
+
+
+
