@@ -2,6 +2,7 @@
 移动端基础组件
 
 
+## alert
 ```javascript
 //alert
 mobileModal.alert(
@@ -14,7 +15,7 @@ mobileModal.alert(
 );
 ```
 
-
+## confirm
 ```javascript
 //confirm
 mobileModal.confirm(
@@ -34,14 +35,14 @@ mobileModal.confirm(
 );
 ```
 
-
+## toast
 ```javascript
 //toast
 var content = '提示内容';//可选
 mobileModal.toast(content);
 ```
 
-
+## pageLoader
 ```javascript
 //页面加载pageLoader
 
@@ -53,7 +54,7 @@ mobileModal.showPageLoader(content);
 mobileModal.hidePageLoader();
 ```
 
-
+## preLoader
 ```javascript
 //预加载preLoader
 
@@ -65,8 +66,7 @@ mobileModal.showPreLoader(content);
 mobileModal.hidePreLoader();
 ```
 
-
-等等...
+more...
 
 ## demo：
 
